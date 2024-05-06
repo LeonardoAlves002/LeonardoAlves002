@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeonardoAlves002
 - 👀 I’m interested in estagio em desenvolvimento web
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning HTML, CSS and Python
 - 📫 How to reach me leonardoalvesb99@gmail.com ou https://www.linkedin.com/in/leonardo-alves-bb6560231/
 
 
